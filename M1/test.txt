@@ -1,0 +1,255 @@
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.14 says 192.168.1.1 / Padding
+Ether / IP / UDP / BOOTP / DHCP Discover
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.14 says 0.0.0.0
+Ether / IP / UDP / BOOTP / DHCP Request
+Ether / ARP who has 192.168.1.14 says 0.0.0.0
+Ether / ARP who has 192.168.1.14 says 192.168.1.14
+Ether / ARP who has 192.168.1.14 says 0.0.0.0
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.14 says 192.168.1.14
+Ether / ARP who has 192.168.1.1 says 192.168.1.14
+Ether / IP / UDP / DNS Qry "b'_companion-link._tcp.local.'" 
+Ether / ARP who has 192.168.1.1 says 192.168.1.14
+Ether / ARP who has 192.168.1.14 says 192.168.1.14
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / IP / UDP / DNS Qry "b'_companion-link._tcp.local.'" 
+Ether / IP / UDP / DNS Qry "b'_vivintcamera-ODC300._tcp.local.'" 
+Ether / IP / UDP / DNS Qry "b'_vivint-ODC300._tcp.local.'" 
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / IP / UDP / DNS Qry "b'_companion-link._tcp.local.'" 
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.8 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.6 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.8 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.6 says 192.168.1.7 / Padding
+Ether / 0.0.0.0 > 224.0.0.1 2 / Raw
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.8 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.6 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / 192.168.1.5 > 239.255.255.250 2 / Raw
+Ether / IP / UDP / DNS Qry "b'_companion-link._tcp.local.'" 
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / 192.168.1.15 > 224.0.0.251 2 / Raw
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / IP / UDP / DNS Qry "b'_companion-link._tcp.local.'" 
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / IP / TCP 192.168.1.15:59260 > 52.109.13.96:https PA / Raw
+Ether / IP / TCP 192.168.1.15:59259 > 52.109.0.95:https PA / Raw
+Ether / IP / TCP 192.168.1.15:59258 > 52.109.0.95:https PA / Raw
+Ether / IP / TCP 52.109.13.96:https > 192.168.1.15:59260 A
+Ether / IP / TCP 52.109.0.95:https > 192.168.1.15:59259 A
+Ether / IP / TCP 52.109.0.95:https > 192.168.1.15:59258 A
+Ether / IP / UDP / DNS Qry "b'_companion-link._tcp.local.'" 
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.15
+Ether / 192.168.1.1 > 239.255.255.250 2 / Raw
+Ether / 192.168.1.15 > 224.0.0.252 2 / Raw
+Ether / ARP who has 192.168.1.8 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.6 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.8 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.6 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.1 says 192.168.1.15
+Ether / ARP is at 78:d2:94:09:7c:d6 says 192.168.1.1
+Ether / ARP who has 192.168.1.8 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.6 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / IP / UDP / DNS Qry "b'_companion-link._tcp.local.'" 
+Ether / IP / UDP / DNS Qry "b'_companion-link._tcp.local.'" 
+Ether / IP / TCP 192.168.1.15:49890 > 76.223.92.165:https PA / Raw
+Ether / IP / TCP 76.223.92.165:https > 192.168.1.15:49890 A
+Ether / IP / TCP 76.223.92.165:https > 192.168.1.15:49890 PA / Raw
+Ether / IP / TCP 192.168.1.15:49890 > 76.223.92.165:https A
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.8 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.6 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.8 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.6 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / IP / UDP / DNS Qry "b'_vivintcamera-ODC300._tcp.local.'" 
+Ether / IP / UDP / DNS Qry "b'_vivint-ODC300._tcp.local.'" 
+Ether / ARP who has 192.168.1.8 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.6 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / IP / TCP 13.248.151.210:https > 192.168.1.15:49891 PA / Raw
+Ether / IP / TCP 192.168.1.15:49891 > 13.248.151.210:https A
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / IP / TCP 192.168.1.15:59260 > 52.109.13.96:https PA / Raw
+Ether / IP / TCP 192.168.1.15:59259 > 52.109.0.95:https PA / Raw
+Ether / IP / TCP 192.168.1.15:59258 > 52.109.0.95:https PA / Raw
+Ether / IP / TCP 52.109.13.96:https > 192.168.1.15:59260 A
+Ether / IP / TCP 52.109.0.95:https > 192.168.1.15:59259 A
+Ether / IP / TCP 52.109.0.95:https > 192.168.1.15:59258 A
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / IP / UDP 192.168.1.15:55071 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.1.7:55067 > 239.255.255.250:ssdp / Raw
+Ether / ARP who has 192.168.1.1 says 192.168.1.15
+Ether / ARP is at 78:d2:94:09:7c:d6 says 192.168.1.1
+Ether / IP / UDP 192.168.1.15:55071 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.1.7:55067 > 239.255.255.250:ssdp / Raw
+Ether / ARP who has 192.168.1.6 says 192.168.1.15
+Ether / ARP who has 192.168.1.8 says 192.168.1.15
+Ether / IP / UDP 192.168.1.15:55071 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.1.7:55067 > 239.255.255.250:ssdp / Raw
+Ether / IP / TCP 192.168.1.15:49890 > 76.223.92.165:https PA / Raw
+Ether / IP / TCP 76.223.92.165:https > 192.168.1.15:49890 A
+Ether / IP / TCP 76.223.92.165:https > 192.168.1.15:49890 PA / Raw
+Ether / IP / TCP 192.168.1.15:49890 > 76.223.92.165:https A
+Ether / IP / UDP 192.168.1.15:55071 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.1.7:55067 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.1.5:ssdp > 239.255.255.250:ssdp / Raw
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / IP / UDP / DNS Qry "b'_vivintcamera-ODC300._tcp.local.'" 
+Ether / IP / UDP / DNS Qry "b'_vivint-ODC300._tcp.local.'" 
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.8 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.6 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.8 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.6 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.8 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.6 says 192.168.1.7 / Padding
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / IP / TCP 192.168.1.15:59260 > 52.109.13.96:https PA / Raw
+Ether / IP / TCP 192.168.1.15:59259 > 52.109.0.95:https PA / Raw
+Ether / IP / TCP 192.168.1.15:59258 > 52.109.0.95:https PA / Raw
+Ether / IP / TCP 52.109.0.95:https > 192.168.1.15:59259 A
+Ether / IP / TCP 52.109.13.96:https > 192.168.1.15:59260 A
+Ether / IP / TCP 52.109.0.95:https > 192.168.1.15:59258 A
+Ether / ARP who has 192.168.1.16 says 192.168.1.15
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.8 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.6 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.8 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.6 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / 192.168.1.7 > 239.255.255.250 2 / Raw / Padding
+Ether / ARP who has 192.168.1.1 says 192.168.1.15
+Ether / ARP is at 78:d2:94:09:7c:d6 says 192.168.1.1
+Ether / 192.168.1.7 > 224.0.0.252 2 / Raw / Padding
+Ether / ARP who has 192.168.1.8 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.6 says 192.168.1.7 / Padding
+Ether / 192.168.1.7 > 224.0.0.251 2 / Raw / Padding
+Ether / IP / UDP / DNS Qry "b'_companion-link._tcp.local.'" 
+Ether / IP / TCP 192.168.1.15:49890 > 76.223.92.165:https PA / Raw
+Ether / IP / TCP 76.223.92.165:https > 192.168.1.15:49890 A
+Ether / IP / UDP / DNS Qry "b'_companion-link._tcp.local.'" 
+Ether / IP / TCP 76.223.92.165:https > 192.168.1.15:49890 PA / Raw
+Ether / IP / TCP 192.168.1.15:49890 > 76.223.92.165:https A
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP / DNS Qry "b'_companion-link._tcp.local.'" 
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.8 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.6 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.8 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.6 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / IP / UDP / DNS Qry "b'_vivintcamera-ODC300._tcp.local.'" 
+Ether / IP / UDP / DNS Qry "b'_vivint-ODC300._tcp.local.'" 
+Ether / ARP who has 192.168.1.8 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.6 says 192.168.1.7 / Padding
+Ether / IP / UDP / DNS Qry "b'_vivint-DBC300._tcp.local.'" 
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP / DNS Qry "b'_companion-link._tcp.local.'" 
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP / DNS Qry "b'The Frame._airplay._tcp.local.'" 
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP / DNS Ans "b'Samsung.local.'" 
+Ether / IP / UDP / DNS Ans "[b'acl=0', b'deviceid=7C:0A:3F:1D:0E:08', b'features=0x7F8AD0,0x38BCB46', b'rsf=0x3', b'fv=p20.T-NKM2AKUC-2141.2', b'flags=0x244', b'model=LS03A', b'manufacturer=Samsung', b'serialNumber=0BNW3CCR900933M', b'protovers=1.1', b'srcvers=377.25.06', b'pi=D3:2B:2B:3D:05:FC', b'psi=00000000-0000-0000-0000-D32B2B3D05FC', b'gid=00000000-0000-0000-0000-D32B2B3D05FC', b'gcgl=0', b'pk=c2dd7333ef2aa778050bd28899ff9521b8d5ce5bf2292d2b3f8df74bbae520d4']" 
+Ether / IP / UDP 192.168.1.10:46341 > 239.255.255.250:15600 / Raw
+Ether / IP / TCP 192.168.1.15:59260 > 52.109.13.96:https PA / Raw
+Ether / IP / TCP 192.168.1.15:59259 > 52.109.0.95:https PA / Raw
+Ether / IP / UDP / DNS Ans "[b'acl=0', b'deviceid=7C:0A:3F:1D:0E:08', b'features=0x7F8AD0,0x38BCB46', b'rsf=0x3', b'fv=p20.T-NKM2AKUC-2141.2', b'flags=0x244', b'model=LS03A', b'manufacturer=Samsung', b'serialNumber=0BNW3CCR900933M', b'protovers=1.1', b'srcvers=377.25.06', b'pi=D3:2B:2B:3D:05:FC', b'psi=00000000-0000-0000-0000-D32B2B3D05FC', b'gid=00000000-0000-0000-0000-D32B2B3D05FC', b'gcgl=0', b'pk=c2dd7333ef2aa778050bd28899ff9521b8d5ce5bf2292d2b3f8df74bbae520d4']" 
+Ether / IP / TCP 192.168.1.15:59258 > 52.109.0.95:https PA / Raw
+Ether / IP / TCP 52.109.13.96:https > 192.168.1.15:59260 A
+Ether / IP / TCP 52.109.0.95:https > 192.168.1.15:59259 A
+Ether / IP / TCP 52.109.0.95:https > 192.168.1.15:59258 A
+Ether / IP / UDP / DNS Ans "b'Samsung.local.'" 
+Ether / IP / UDP 192.168.1.10:34678 > 192.168.1.255:15600 / Raw
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.1 says 192.168.1.15
+Ether / ARP is at 78:d2:94:09:7c:d6 says 192.168.1.1
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / IP / UDP / DNS Ans "b'Samsung.local.'" 
+Ether / IP / UDP 192.168.1.10:41945 > 239.255.255.250:15600 / Raw
+Ether / ARP who has 192.168.1.6 says 192.168.1.15
+Ether / ARP who has 192.168.1.8 says 192.168.1.15
+Ether / IP / TCP 192.168.1.15:49890 > 76.223.92.165:https PA / Raw
+Ether / IP / TCP 76.223.92.165:https > 192.168.1.15:49890 A
+Ether / IP / TCP 76.223.92.165:https > 192.168.1.15:49890 PA / Raw
+Ether / IP / TCP 192.168.1.15:49890 > 76.223.92.165:https A
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.1.10:55529 > 192.168.1.255:15600 / Raw
+Ether / IP / UDP 192.168.1.10:50380 > 239.255.255.250:15600 / Raw
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / IP / UDP 192.168.1.10:41339 > 192.168.1.255:15600 / Raw
+Ether / IP / UDP / DNS Qry "b'_vivintcamera-ODC300._tcp.local.'" 
+Ether / IP / UDP / DNS Qry "b'_vivint-ODC300._tcp.local.'" 
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / IP / UDP 192.168.1.10:42417 > 239.255.255.250:15600 / Raw
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.1.1:52082 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.1.10:48479 > 192.168.1.255:15600 / Raw
+Ether / ARP who has 192.168.1.8 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.6 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / IP / UDP 192.168.1.10:44973 > 239.255.255.250:15600 / Raw
+Ether / ARP who has 192.168.1.8 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.6 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.8 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.6 says 192.168.1.7 / Padding
+Ether / ARP who has 192.168.1.16 says 192.168.1.7 / Padding
+Ether / IP / UDP 192.168.1.10:56436 > 192.168.1.255:15600 / Raw
